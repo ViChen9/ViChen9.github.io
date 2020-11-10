@@ -4,18 +4,16 @@
   
     
     <entry>
-      <title>first</title>
+      <title>First</title>
       <link href="test/"/>
       <url>test/</url>
       
-        <content type="html"><![CDATA[<p>hgiuyhguyihuijjhuij<br>nbuyihuyhuihju8ij</p><a id="more"></a><p>hbghuyjguyhgiuj<br>byuigiuygiuy<br>‘bguyiguytiguy798g9u</p>]]></content>
+        <content type="html"><![CDATA[<p>第一篇文章</p><a id="more"></a><h2 id="测试内容"><a href="#测试内容" class="headerlink" title="测试内容"></a>测试内容</h2><h2 id=""><a href="#" class="headerlink" title="-"></a>-</h2><p>-<br>结束<br>-</p>]]></content>
       
       
       <categories>
           
           <category> Test </category>
-          
-          <category> h </category>
           
       </categories>
       
@@ -23,10 +21,6 @@
         <tags>
             
             <tag> Test </tag>
-            
-            <tag> jiu </tag>
-            
-            <tag> ju98i </tag>
             
         </tags>
       
