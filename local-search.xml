@@ -8,19 +8,21 @@
     <link href="/1/"/>
     <url>/1/</url>
     
-    <content type="html"><![CDATA[<p>第一篇文章</p><a id="more"></a><h2 id="测试内容"><a href="#测试内容" class="headerlink" title="测试内容"></a>测试内容</h2><p>结束</p>]]></content>
+    <content type="html"><![CDATA[<p><em>只是一篇废话</em></p><a id="more"></a>]]></content>
     
     
     <categories>
       
-      <category>分类Test</category>
+      <category>Blog</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>标签Test</tag>
+      <tag>分享</tag>
+      
+      <tag>杂谈</tag>
       
     </tags>
     
